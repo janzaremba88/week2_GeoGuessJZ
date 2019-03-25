@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeoGuess</string>
+    <string name="explanation_text">Which of these pictures is in Europe? Swipe left for yes or right for no.</string>
+    <string name="picture">picture</string>
+    <string name="correctguess">You\'re right!</string>
+    <string name="wrongguess">You\'re wrong!</string>
+</resources>
